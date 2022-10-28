@@ -1,0 +1,18 @@
+body{
+    height: 100%;
+}
+
+.Pokecard{
+    width: 200px;
+    border: 2px solid black;
+    background-color: beige;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.Pokecard-container{
+    width: 50%;
+}
